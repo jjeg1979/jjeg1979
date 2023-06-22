@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on improving code quality and on:
+- pyAgloGen3D, after my PhD Thesis I wanted this to be ported from Matlab into Python.
