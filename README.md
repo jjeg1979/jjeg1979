@@ -54,8 +54,7 @@ In summary, I am a forward-thinking technology solutions creator, passionate abo
 
 ## Programming lenguages & Other
 
--![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
-
+- ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 - ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 - ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
 - ![Solidity](https://img.shields.io/badge/SOLIDITY-764ABC.svg?&style=flat&logo=solidity&logoColor=white)&nbsp;
