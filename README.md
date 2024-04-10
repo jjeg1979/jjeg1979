@@ -67,52 +67,54 @@ In summary, I am a forward-thinking technology solutions creator, passionate abo
 ![VUEX](https://img.shields.io/badge/VUEX-4FC08D.svg?&style=flat&logo=vue.js&logoColor=white)&nbsp;
 
 - ![MQL4](https://img.shields.io/badge/MQL4-00A98F.svg?&style=flat&logo=MQL4&logoColor=white)&nbsp;
-- ![MQL5](https://img.shields.io/badge/MQL5-00A98F.svg?&style=flat&logo=MQL5&logoColor=white)&nbsp;
-- ![EasyLanguage](https://img.shields.io/badge/EASYLANGUAGE-00A98F.svg?&style=flat&logo=EASYLANGUAGE&logoColor=white)&nbsp;
+![MQL5](https://img.shields.io/badge/MQL5-00A98F.svg?&style=flat&logo=MQL5&logoColor=white)&nbsp;
+![EasyLanguage](https://img.shields.io/badge/EASYLANGUAGE-00A98F.svg?&style=flat&logo=EASYLANGUAGE&logoColor=white)&nbsp;
 
 ## Technologies I Use
 
 - ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
-- ![EXPRESS](https://img.shields.io/badge/EXPRESS-000019.svg?&style=flat&logo=EXPRESS&logoColor=white)&nbsp;
+![EXPRESS](https://img.shields.io/badge/EXPRESS-000019.svg?&style=flat&logo=EXPRESS&logoColor=white)&nbsp;
 
 - ![UNIT_TESTING](https://img.shields.io/badge/UNIT_TESTING-FFD900.svg?&style=flat&logo=&logoColor=white)&nbsp;
-- ![PYTEST](https://img.shields.io/badge/PYTEST-0A9EDC.svg?&style=flat&logo=pytest&logoColor=white)&nbsp;
-- ![MOCHA](https://img.shields.io/badge/MOCHA-8D6748.svg?&style=flat&logo=mocha&logoColor=white)&nbsp;
-- ![JEST](https://img.shields.io/badge/JEST-C21325.svg?&style=flat&logo=jest&logoColor=white)&nbsp;
+![PYTEST](https://img.shields.io/badge/PYTEST-0A9EDC.svg?&style=flat&logo=pytest&logoColor=white)&nbsp;
+![MOCHA](https://img.shields.io/badge/MOCHA-8D6748.svg?&style=flat&logo=mocha&logoColor=white)&nbsp;
+![JEST](https://img.shields.io/badge/JEST-C21325.svg?&style=flat&logo=jest&logoColor=white)&nbsp;
 
 - ![BDD](https://img.shields.io/badge/BDD-4479A1.svg?&style=flat&logo=bdd&logoColor=white)&nbsp;
-- ![TDD](https://img.shields.io/badge/TDD-F77E1C.svg?&style=flat&logo=TDD&logoColor=white)&nbsp;
+![TDD](https://img.shields.io/badge/TDD-F77E1C.svg?&style=flat&logo=TDD&logoColor=white)&nbsp;
 
 - ![Github](https://img.shields.io/badge/GITHUB-181717.svg?&style=flat&logo=github&logoColor=white)&nbsp;
-- ![Git](https://img.shields.io/badge/GIT-F05032.svg?&style=flat&logo=git&logoColor=white)&nbsp;
-- ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
-- ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
-- ![POSTMAN](https://img.shields.io/badge/POSTMAN-FF6C37.svg?&style=flat&logo=POSTMAN&logoColor=black)&nbsp;
+![Git](https://img.shields.io/badge/GIT-F05032.svg?&style=flat&logo=git&logoColor=white)&nbsp;
+![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
+![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
+![POSTMAN](https://img.shields.io/badge/POSTMAN-FF6C37.svg?&style=flat&logo=POSTMAN&logoColor=black)&nbsp;
 
 - ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
-- ![AGILE](https://img.shields.io/badge/AGILE-65633F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
+![AGILE](https://img.shields.io/badge/AGILE-65633F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
 - ![FIGMA](https://img.shields.io/badge/FIGMA-F24E1E.svg?&style=flat&logo=figma&logoColor=white)&nbsp;
 
 ## Other interests
 
-- ![Artificial Intelligence](https://img.shields.io/badge/AI-FF6C37.svg?&style=flat&logo=ai&logoColor=black) ![Machine Learning](https://img.shields.io/badge/ML-FF6C37.svg?&style=flat&logo=ml&logoColor=black)&nbsp;
+- ![Artificial Intelligence](https://img.shields.io/badge/AI-FF6C37.svg?&style=flat&logo=ai&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/ML-FF6C37.svg?&style=flat&logo=ml&logoColor=black)&nbsp;
 - ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
-- ![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
-- ![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white)&nbsp;
+
 - ![Arduino](https://img.shields.io/badge/ARDUINO-00979D.svg?&style=flat&logo=arduino&logoColor=white)&nbsp;
 
 - ![Personal Finance](https://img.shields.io/badge/FINANCE-0088CC.svg?&style=flat&logo=finance&logoColor=white)&nbsp;
 
 - ![Blockchain](https://img.shields.io/badge/BLOCKCHAIN-121D33.svg?&style=flat&logo=blockchain-dot-com&logoColor=white)&nbsp;
-- ![Cryptocurrencies](https://img.shields.io/badge/CRYPTOCURRENCY-00979D.svg?&style=flat&logo=cryptocurrency&logoColor=black)&nbsp;
-- ![Bitcoin](https://img.shields.io/badge/BITCOIN-0769AD.svg?&style=flat&logo=bitcoin&logoColor=black)&nbsp;
-- ![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white)&nbsp;
-- ![Polygon](https://img.shields.io/badge/POLYGON-3C3C3D.svg?&style=flat&logo=polygon&logoColor=white)&nbsp;
+![Cryptocurrencies](https://img.shields.io/badge/CRYPTOCURRENCY-00979D.svg?&style=flat&logo=cryptocurrency&logoColor=black)&nbsp;
+![Bitcoin](https://img.shields.io/badge/BITCOIN-0769AD.svg?&style=flat&logo=bitcoin&logoColor=black)&nbsp;
+![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white)&nbsp;
+![Polygon](https://img.shields.io/badge/POLYGON-3C3C3D.svg?&style=flat&logo=polygon&logoColor=white)&nbsp;
 
 - ![Smart Contracts](https://img.shields.io/badge/SMART_CONTRACTS-3C3C3D.svg?&style=flat&logo=smart-contracts&logoColor=white)&nbsp;
-- ![DeFi](https://img.shields.io/badge/DEFI-3C3C3D.svg?&style=flat&logo=defi&logoColor=white)&nbsp;
-- ![NFTs](https://img.shields.io/badge/NFTs-3C3C3D.svg?&style=flat&logo=nfts&logoColor=white)&nbsp;
+![DeFi](https://img.shields.io/badge/DEFI-3C3C3D.svg?&style=flat&logo=defi&logoColor=white)&nbsp;
+![NFTs](https://img.shields.io/badge/NFTs-3C3C3D.svg?&style=flat&logo=nfts&logoColor=white)&nbsp;
 
 ## <b> <span style="font-size: 24px;">&#9881;</span> &nbsp;GitHub Statistics</b>
 
