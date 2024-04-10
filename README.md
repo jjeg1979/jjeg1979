@@ -55,16 +55,16 @@ In summary, I am a forward-thinking technology solutions creator, passionate abo
 ## Programming lenguages & Other
 
 - ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
-- ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-- ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
 - ![Solidity](https://img.shields.io/badge/SOLIDITY-764ABC.svg?&style=flat&logo=solidity&logoColor=white)&nbsp;
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
-- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 
 - ![REACT](https://img.shields.io/badge/REACT-0088CC.svg?&style=flat&logo=REACT&logoColor=white)&nbsp;
-- ![REDUX](https://img.shields.io/badge/REDUX-764ABC.svg?&style=flat&logo=REDUX&logoColor=white)&nbsp;
-- ![VUE](https://img.shields.io/badge/VUE-4FC08D.svg?&style=flat&logo=vue.js&logoColor=white)&nbsp;
-- ![VUEX](https://img.shields.io/badge/VUEX-4FC08D.svg?&style=flat&logo=vue.js&logoColor=white)&nbsp;
+![REDUX](https://img.shields.io/badge/REDUX-764ABC.svg?&style=flat&logo=REDUX&logoColor=white)&nbsp;
+![VUE](https://img.shields.io/badge/VUE-4FC08D.svg?&style=flat&logo=vue.js&logoColor=white)&nbsp;
+![VUEX](https://img.shields.io/badge/VUEX-4FC08D.svg?&style=flat&logo=vue.js&logoColor=white)&nbsp;
 
 - ![MQL4](https://img.shields.io/badge/MQL4-00A98F.svg?&style=flat&logo=MQL4&logoColor=white)&nbsp;
 - ![MQL5](https://img.shields.io/badge/MQL5-00A98F.svg?&style=flat&logo=MQL5&logoColor=white)&nbsp;
