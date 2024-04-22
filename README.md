@@ -1,6 +1,6 @@
 # Bienvenido a mi perfil de GitHub
 
-¡Hola! Soy [tu nombre], un apasionado por la programación y la tecnología. En esta cuenta de GitHub encontrarás una variedad de proyectos en los que he trabajado, desde pequeñas utilidades hasta aplicaciones más complejas. ¡Echa un vistazo y no dudes en contactarme si tienes alguna pregunta o sugerencia!
+¡Hola! Soy Juan José Expósito González, un apasionado por la programación y la tecnología. En esta cuenta de GitHub encontrarás una variedad de proyectos en los que he trabajado, desde pequeñas utilidades hasta aplicaciones más complejas. ¡Echa un vistazo y no dudes en contactarme si tienes alguna pregunta o sugerencia!
 
 ## Proyectos Destacados
 
