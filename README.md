@@ -27,5 +27,5 @@ Estos son solo algunos de los lenguajes que utilizo regularmente en mis proyecto
 ¡Si estás interesado en colaborar en alguno de mis proyectos o simplemente quieres charlar sobre programación, no dudes en contactarme!
 
 - Email: jjeg1979@gmail.com
-- LinkedIn: [Tu Perfil de LinkedIn](www.linkedin.com/in/juan-josé-expósito-gonzález-31557117)
+- LinkedIn: [Mi perfil de Linkedin](www.linkedin.com/in/juan-josé-expósito-gonzález-31557117)
 
