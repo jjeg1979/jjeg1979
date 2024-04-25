@@ -54,7 +54,7 @@ I work with a variety of programming languages and frameworks in different scope
     ![Ethers.js](https://img.shields.io/badge/Ethers.js-00449E?style=flat-square&logo=ethereum&logoColor=white)&nbsp;
     ![Web3.py](https://img.shields.io/badge/Web3.py-3572A5?style=flat-square&logo=python&logoColor=white)&nbsp;
 
-  - **Algorithmic Trading:**
+- **Algorithmic Trading:**
   - ![MQL4](https://img.shields.io/badge/MQL4-00AEEF?style=flat-square&logo=metatrader&logoColor=white)&nbsp;
     ![MQL5](https://img.shields.io/badge/MQL5-00AEEF?style=flat-square&logo=metatrader&logoColor=white)&nbsp;
     ![EasyLanguage](https://img.shields.io/badge/EasyLanguage-1F2E4A?style=flat-square&logo=&logoColor=white)&nbsp;
