@@ -35,7 +35,7 @@ I work with a variety of programming languages and frameworks in different scope
     ![Cardano](https://img.shields.io/badge/Cardano-0D1726?style=flat-square&logo=cardano&logoColor=white)&nbsp;
     ![Stellar](https://img.shields.io/badge/Stellar-000000?style=flat-square&logo=stellar&logoColor=white)&nbsp;
   - ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white)&nbsp;
-  - ![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?style=flat-square&logo=polkadot&logoColor=white)&nbsp;
+    ![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?style=flat-square&logo=polkadot&logoColor=white)&nbsp;
 
 - **Web Development:**
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)&nbsp;
