@@ -66,7 +66,7 @@ These are just a few of the languages and frameworks I regularly use in my proje
 
 If you're interested in hiring me, collaborating on any of my projects or just want to chat about programming, feel free to contact me!
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">How to reach me:</h3>
 <p align="left">
   <a href="mailto:jjeg1979@gmail.com?subject=HiJuan%20%José%20%20Expósito"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="[https://www.linkedin.com/in/juan-jos%C3%A9-exp%C3%B3sito-gonz%C3%A1lez-31557117/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
