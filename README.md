@@ -47,6 +47,17 @@ I work with a variety of programming languages and frameworks in different scope
     ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white)&nbsp;
     ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)&nbsp;
     ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)&nbsp;
+  - ![Truffle](https://img.shields.io/badge/Truffle-383838?style=flat-square&logo=truffle&logoColor=white)&nbsp;
+    ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white)&nbsp;
+    ![Chai](https://img.shields.io/badge/Chai-A30701?style=flat-square&logo=chai&logoColor=white)&nbsp;
+    ![Hardhat](https://img.shields.io/badge/Hardhat-2965D1?style=flat-square&logo=hardhat&logoColor=white)&nbsp;
+    ![Ethers.js](https://img.shields.io/badge/Ethers.js-00449E?style=flat-square&logo=ethereum&logoColor=white)&nbsp;
+    ![Web3.py](https://img.shields.io/badge/Web3.py-3572A5?style=flat-square&logo=python&logoColor=white)&nbsp;
+
+  - **Algorithmic Trading:**
+  - ![MQL4](https://img.shields.io/badge/MQL4-00AEEF?style=flat-square&logo=metatrader&logoColor=white)&nbsp;
+    ![MQL5](https://img.shields.io/badge/MQL5-00AEEF?style=flat-square&logo=metatrader&logoColor=white)&nbsp;
+    ![EasyLanguage](https://img.shields.io/badge/EasyLanguage-1F2E4A?style=flat-square&logo=&logoColor=white)&nbsp;
 
 - **Technologies and Other Interests:**
   - ![Github](https://img.shields.io/badge/GITHUB-181717.svg?&style=flat&logo=github&logoColor=white)&nbsp;
