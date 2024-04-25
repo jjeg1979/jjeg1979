@@ -52,7 +52,7 @@ These are just a few of the languages and frameworks I regularly use in my proje
 
 ## Contact
 
-If you're interested in collaborating on any of my projects or just want to chat about programming, feel free to contact me!
+If you're interested in hiring me, collaborating on any of my projects or just want to chat about programming, feel free to contact me!
 
-- Email: jjeg1979@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/juan-jos%C3%A9-exp%C3%B3sito-gonz%C3%A1lez-31557117/)
+[![Email](https://img.shields.io/badge/Email-jjeg1979%40gmail.com-red?style=flat-square&logo=gmail)](mailto:jjeg1979@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-juan-jos%C3%A9-exp%C3%B3sito-gonz%C3%A1lez-31557117-%230077B5.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/juan-jos%C3%A9-exp%C3%B3sito-gonz%C3%A1lez-31557117/)
