@@ -85,4 +85,4 @@ If you're interested in hiring me, collaborating on any of my projects or just w
 ## GitHub Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jjeg1979&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjeg1979&layout=compact&them=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjeg1979&layout=compact&true&theme=cobalt)
