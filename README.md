@@ -31,11 +31,7 @@ I work with a variety of programming languages and frameworks in different scope
 - **Blockchain:**
   - ![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=flat-square&logo=bitcoin&logoColor=white)&nbsp;
     ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)&nbsp;
-  - ![Solana](https://img.shields.io/badge/Solana-1D1D1D?style=flat-square&logo=solana&logoColor=white)&nbsp;
-    ![Cardano](https://img.shields.io/badge/Cardano-0D1726?style=flat-square&logo=cardano&logoColor=white)&nbsp;
-    ![Stellar](https://img.shields.io/badge/Stellar-000000?style=flat-square&logo=stellar&logoColor=white)&nbsp;
-  - ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white)&nbsp;
-    ![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?style=flat-square&logo=polkadot&logoColor=white)&nbsp;
+  - ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)&nbsp;
 
 - **Web Development:**
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)&nbsp;
@@ -64,6 +60,12 @@ I work with a variety of programming languages and frameworks in different scope
   ![Git](https://img.shields.io/badge/GIT-F05032.svg?&style=flat&logo=git&logoColor=white)&nbsp;
   ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
   ![POSTMAN](https://img.shields.io/badge/POSTMAN-FF6C37.svg?&style=flat&logo=POSTMAN&logoColor=black)&nbsp;
+
+ - ![Solana](https://img.shields.io/badge/Solana-1D1D1D?style=flat-square&logo=solana&logoColor=white)&nbsp;
+    ![Cardano](https://img.shields.io/badge/Cardano-0D1726?style=flat-square&logo=cardano&logoColor=white)&nbsp;
+    ![Stellar](https://img.shields.io/badge/Stellar-000000?style=flat-square&logo=stellar&logoColor=white)&nbsp;
+    ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white)&nbsp;
+    ![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?style=flat-square&logo=polkadot&logoColor=white)&nbsp;
   
   - ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
   ![AGILE](https://img.shields.io/badge/AGILE-65633F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
