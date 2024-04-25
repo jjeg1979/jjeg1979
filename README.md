@@ -61,16 +61,16 @@ I work with a variety of programming languages and frameworks in different scope
   ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
   ![POSTMAN](https://img.shields.io/badge/POSTMAN-FF6C37.svg?&style=flat&logo=POSTMAN&logoColor=black)&nbsp;
 
- - ![Solana](https://img.shields.io/badge/Solana-1D1D1D?style=flat-square&logo=solana&logoColor=white)&nbsp;
-    ![Cardano](https://img.shields.io/badge/Cardano-0D1726?style=flat-square&logo=cardano&logoColor=white)&nbsp;
-    ![Stellar](https://img.shields.io/badge/Stellar-000000?style=flat-square&logo=stellar&logoColor=white)&nbsp;
-    ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white)&nbsp;
-    ![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?style=flat-square&logo=polkadot&logoColor=white)&nbsp;
-  
-  - ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
-  ![AGILE](https://img.shields.io/badge/AGILE-65633F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
+   - ![Solana](https://img.shields.io/badge/Solana-1D1D1D?style=flat-square&logo=solana&logoColor=white)&nbsp;
+      ![Cardano](https://img.shields.io/badge/Cardano-0D1726?style=flat-square&logo=cardano&logoColor=white)&nbsp;
+      ![Stellar](https://img.shields.io/badge/Stellar-000000?style=flat-square&logo=stellar&logoColor=white)&nbsp;
+      ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white)&nbsp;
+      ![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?style=flat-square&logo=polkadot&logoColor=white)&nbsp;
     
-  - ![FIGMA](https://img.shields.io/badge/FIGMA-F24E1E.svg?&style=flat&logo=figma&logoColor=white)&nbsp;
+    - ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
+    ![AGILE](https://img.shields.io/badge/AGILE-65633F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
+      
+    - ![FIGMA](https://img.shields.io/badge/FIGMA-F24E1E.svg?&style=flat&logo=figma&logoColor=white)&nbsp;
 
 These are just a few of the languages and frameworks I regularly use in my projects.
 
