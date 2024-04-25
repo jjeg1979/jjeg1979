@@ -30,10 +30,10 @@ I work with a variety of programming languages and frameworks in different scope
 
 - **Blockchain:**
   - ![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=flat-square&logo=bitcoin&logoColor=white)&nbsp;
-  - ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)&nbsp;
+    ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)&nbsp;
   - ![Solana](https://img.shields.io/badge/Solana-1D1D1D?style=flat-square&logo=solana&logoColor=white)&nbsp;
-  - ![Cardano](https://img.shields.io/badge/Cardano-0D1726?style=flat-square&logo=cardano&logoColor=white)&nbsp;
-  - ![Stellar](https://img.shields.io/badge/Stellar-000000?style=flat-square&logo=stellar&logoColor=white)&nbsp;
+    ![Cardano](https://img.shields.io/badge/Cardano-0D1726?style=flat-square&logo=cardano&logoColor=white)&nbsp;
+    ![Stellar](https://img.shields.io/badge/Stellar-000000?style=flat-square&logo=stellar&logoColor=white)&nbsp;
   - ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white)&nbsp;
   - ![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?style=flat-square&logo=polkadot&logoColor=white)&nbsp;
 
