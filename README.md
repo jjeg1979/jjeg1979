@@ -52,7 +52,6 @@ I work with a variety of programming languages and frameworks in different scope
   - ![Github](https://img.shields.io/badge/GITHUB-181717.svg?&style=flat&logo=github&logoColor=white)&nbsp;
   ![Git](https://img.shields.io/badge/GIT-F05032.svg?&style=flat&logo=git&logoColor=white)&nbsp;
   ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
-  ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
   ![POSTMAN](https://img.shields.io/badge/POSTMAN-FF6C37.svg?&style=flat&logo=POSTMAN&logoColor=black)&nbsp;
   
   - ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
@@ -70,3 +69,8 @@ If you're interested in hiring me, collaborating on any of my projects or just w
 <p align="left">
   <a href="mailto:jjeg1979@gmail.com?subject=HiJuan%20%José%20%20Expósito"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="[https://www.linkedin.com/in/juan-jos%C3%A9-exp%C3%B3sito-gonz%C3%A1lez-31557117/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+
+
+## GitHub Stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=jjeg1979&show_icons=true)
